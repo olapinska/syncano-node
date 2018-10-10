@@ -30,3 +30,4 @@
 - [Contributing](/common/contributing)
 - [License](/common/license)
 - [Changelog](/common/changelog)
+- [Dictionary](/common/dictionary)
